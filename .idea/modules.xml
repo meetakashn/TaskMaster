@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/taskmaster/taskmaster.iml" filepath="$PROJECT_DIR$/taskmaster/taskmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmaster/android/taskmaster_android.iml" filepath="$PROJECT_DIR$/taskmaster/android/taskmaster_android.iml" />
+    </modules>
+  </component>
+</project>
